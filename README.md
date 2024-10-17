@@ -1,11 +1,11 @@
 # iris_classification
 
 **Overview**
-The Iris Classification Project aims to classify iris flowers into species using machine learning algorithms based on petal and sepal measurements. This project utilizes the popular Iris flower dataset to demonstrate classification techniques using Support Vector Machine (SVM) or Logistic Regression.
+The Iris Classification Project aims to classify iris flowers into species using machine learning algorithms based on petal and sepal measurements. This project utilizes the popular Iris flower dataset to demonstrate classification techniques using Logistic Regression.
 
 **Features**
 Classify iris flowers into three species: Setosa, Versicolor, and Virginica.
-Use SVM or Logistic Regression algorithms for classification.
+Uses Logistic Regression algorithms for classification.
 Display accuracy metrics to evaluate model performance.
 
 **Dataset**
